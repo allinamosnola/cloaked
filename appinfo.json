@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "296221eb-03de-454e-8247-643ee4d69cd3",
+    "appKeys": {},
+    "longName": "Uno",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Uno",
+    "companyName": "allinamosnola",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
